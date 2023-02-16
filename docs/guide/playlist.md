@@ -6,7 +6,7 @@
 
 ```vue
 <template>
-  <aplayer :audio="audio" :lrcType="3" />
+  <aplayer :audio="audio" :lrcType="3" listMaxHeight=900/>
 </template>
 
 <script>
